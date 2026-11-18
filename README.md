@@ -254,6 +254,7 @@ int main()
 ~~~
 
 ## OUTPUT:
+<img width="1127" height="570" alt="WhatsApp Image 2026-11-17 at 2 04 33 PM" src="https://github.com/user-attachments/assets/0d78a154-0786-421d-8649-911a29ad723e" />
 
 
 
